@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RubenInoc
+- 👀 I’m interested in Quantum Computing
+- 🌱 I’m currently learning Physics Engineering
